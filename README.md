@@ -31,7 +31,7 @@ The project was built as a Python practice project to improve my understanding o
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Shambhu-0/stone-paper-scissors.git
+   git clone https://github.com/Shambhu-0/Stone-Paper-Scissors.git
    ```
 
 2. Navigate to the project directory:
