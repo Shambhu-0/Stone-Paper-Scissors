@@ -87,7 +87,7 @@ class Game:
                 self.print_info()
                 break
             else:
-                print("Enter Valid Option")
+                print("\n","Enter Valid Option".center(150))
                 
             
     def update_score(self):
